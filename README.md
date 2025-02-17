@@ -7,7 +7,7 @@
 
 _Don't forget to hit the :star: if you like this repo._
 
-# Object Oriented Programming (SECJ2154)
+# Object Oriented Programming (SECJ2154)(theory)
 
 Welcome to the Course on Object Oriented Programming! This course will present the concepts of object orientation and object-oriented programming techniques using Java programming language. It provides students with a thorough look at the basic constructs of the Java programming language such as its basic data types and operations. It also emphasizes on the use of standard Java APIs that allow students to develop text-based and GUI applications. It will also provide the programming techniques on exception handling and input/output files. At the end of this course, students should be able to use the basic constructs in object-oriented programming.
 
